@@ -10,37 +10,29 @@ design:
 sections:
   - block: hero
     content:
-      title: Build Your Landing Pages with Hugo Blox
-      text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
+      title: "Welcome to My Website"
+      text: "Build amazing websites with Hugo Blox - no coding required!"
       primary_action:
-        text: Get Started
-        url: https://hugoblox.com/templates/
-        icon: rocket-launch
+        text: "Get Started"
+        url: "https://example.com"
+        icon: "sparkles"
       secondary_action:
-        text: Read the docs
-        url: https://docs.hugoblox.com
+        text: "Learn More"
+        url: "https://docs.hugoblox.com"
       announcement:
-        text: "Announcing the release of version 1."
+        text: "🎉 New features available now!"
         link:
           text: "Read more"
-          url: "/blog/"
+          url: "https://example.com/news"
     design:
-    #   spacing:
-    #     padding: [0, 0, 0, 0]
-    #     margin: [0, 0, 0, 0]
-      # For full-screen, add `min-h-screen` below
-      css_class: "dark"
       background:
         video:
-          # Name of video in `assets/media/`.
-          filename: xxxiicpna.mp4.1
-          # Post-processing: flip the video horizontally?
-          flip: false 
-###  - block: stats
-###    content:
-###      items:
-###        - statistic: "1M+"
-###          description: |
+          filename: xxxiicpna.mp4
+  ###  - block: stats
+  ###    content:
+  ###      items:
+  ###        - statistic: "1M+"
+  ###          description: |
 ###            Websites built  
 ###            with Hugo Blox
 ###        - statistic: "10k+"
