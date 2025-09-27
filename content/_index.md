@@ -8,7 +8,7 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: hero-media
+  - block: hero
     content:
       title: Build Your Landing Pages with Hugo Blox
       text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
