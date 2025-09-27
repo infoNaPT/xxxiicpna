@@ -31,6 +31,10 @@ sections:
       # For full-screen, add `min-h-screen` below
       css_class: "dark"
       background:
+        # Choose a color such as from https://html-color-codes.info
+        color: 'navy'
+        # Text color (true=light, false=dark, or remove for the dynamic theme color).
+        text_color_light: true
         video:
           # Name of video in `assets/media/`.
           filename: xxxiicpna.mp4
