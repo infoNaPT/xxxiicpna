@@ -1,5 +1,5 @@
 ---
-title: 'Home'
+title: 'XXXII CPNA 29, 30 e 31 Maio 2026 - UM DIA DE CADA VEZ ARCOS DE VALDEVEZ'
 date: 2023-10-24
 type: landing
 
@@ -40,6 +40,11 @@ sections:
           size: cover
           position: center
           parallax: false
+        video:
+          # Name of video in `assets/media/`.
+          filename: xxxiicpna.mp4
+          # Post-processing: flip the video horizontally?
+          flip: false 
   - block: stats
     content:
       items:
