@@ -5,7 +5,7 @@
 
 # Appearance
 appearance:
-  mode: light
+  mode: dark
   color: indigo
 
 # SEO
@@ -34,20 +34,20 @@ header:
     align: 'center'
     fixed_to_top: true
     logo:
-      text: ''
+      text: 'XXXII CPNA 2026'
       # Logo filename in `assets/media/` folder
-      filename: 'logo.svg'
+#      filename: 'logo.svg'
     button:
       enable: true
-      text: 'Get Started'
-      url: 'https://hugoblox.com/templates/'
-    show_search: true
-    show_theme_chooser: true
+      text: 'Registos (em breve)'
+      url: '#registos'
+    show_search: false
+    show_theme_chooser: false
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} My Company'
+    notice: '© {year} XXXII CPNA'
 
 # Localization
 locale:

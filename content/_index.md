@@ -8,26 +8,41 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: hero
-    content:
-      title: "Welcome to My Website"
-      text: "Build amazing websites with Hugo Blox - no coding required!"
-      primary_action:
-        text: "Get Started"
-        url: "https://example.com"
-        icon: "sparkles"
-      secondary_action:
-        text: "Learn More"
-        url: "https://docs.hugoblox.com"
-      announcement:
-        text: "🎉 New features available now!"
-        link:
-          text: "Read more"
-          url: "https://example.com/news"
-    design:
-      background:
-        video:
-          filename: xxxiicpna.mp4
+       - block: markdown
+         content:
+           title: ""
+           subtitle: ""
+           text: |
+             ![](xxxiicpnacartaz.jpg)
+         design:
+           columns: "1"
+           background:
+             color: "#323232"
+###  - block: hero
+###    content:
+###      title: "Welcome to My Website"
+###      text: "Build amazing websites with Hugo Blox - no coding required!"
+###      primary_action:
+###        text: "Get Started"
+###        url: "https://example.com"
+###        icon: "sparkles"
+###      secondary_action:
+###        text: "Learn More"
+###        url: "https://docs.hugoblox.com"
+###      announcement:
+###        text: "🎉 New features available now!"
+###        link:
+###          text: "Read more"
+###          url: "https://example.com/news"
+###    design:
+###      background:
+###        color: '#000000'
+###        text_color_light: true
+####        image:
+####          filename: xxxiicpnacartaz.jpg
+####          size: actual
+###        video:
+###          filename: xxxiicpna.mp4
   ###  - block: stats
   ###    content:
   ###      items:

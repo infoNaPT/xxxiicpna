@@ -1,0 +1,7 @@
+#site-header > nav > div.order-1.ml-auto.flex.items-center.md\:order-2.lg\:ml-0 > a {
+    margin-right: 15px;
+}
+
+#site-header > nav > label {
+    display: none;
+}
