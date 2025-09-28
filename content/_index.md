@@ -9,6 +9,7 @@ design:
 
 sections:
        - block: markdown
+         id: cartaz
          content:
            title: ""
            subtitle: ""
