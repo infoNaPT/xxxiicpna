@@ -14,7 +14,7 @@ sections:
            title: ""
            subtitle: ""
            text: |
-             ![](xxxiicpnacartaz.jpg)
+             ![](xxxiicpnacartaz.png)
          design:
            columns: "1"
            background:
